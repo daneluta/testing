@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "sample1",
+    "owner": "DC",
+    "description": "oder processing sample"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "dc"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Order Processing Web Application",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "ic"
+  }
+}
